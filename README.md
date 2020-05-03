@@ -1,7 +1,7 @@
 # Animation_test
 Simple animation test using pygame
 
-# Libraries used
+## Libraries used
 1. pygame 1.9.6
 2. pathlib
 3. sys
